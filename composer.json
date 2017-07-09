@@ -1,0 +1,21 @@
+{
+  "name": "tobymaxham/ip-anonymizer",
+  "description": "A package to make IP addresses anonymous",
+  "type": "library",
+  "require": {
+    "php": ">= 5.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "TobyMaxham\\IpAnonymizer\\": "src"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tobias Maxham",
+      "email": "git2017@maxham.de"
+    }
+  ],
+  "minimum-stability": "stable"
+}
