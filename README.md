@@ -4,7 +4,7 @@ A package to make IP addresses anonymous
 ## Installation with Composer
 
 ```shell
-composer require tobymaxham/ip-ip-anonymizer
+composer require tobymaxham/ip-anonymizer
 ```
 
 
