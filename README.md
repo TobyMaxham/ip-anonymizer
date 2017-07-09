@@ -1,5 +1,5 @@
 # IP-Anonymizer
-A package to make IP addresses anonymous
+A package to make IP addresses anonymous.
 
 ## Installation with Composer
 
